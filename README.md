@@ -34,6 +34,8 @@ The modern customer support platform, an open-source alternative to Intercom, Ze
 >
 > **Docker image:** [`engacs/chatwoot:latest`](https://hub.docker.com/r/engacs/chatwoot/tags) (rolling, tracks the newest version tag) · [`engacs/chatwoot:v4.17.0-unlocked`](https://hub.docker.com/r/engacs/chatwoot/tags) (pinned) · [`engacs/chatwoot:unlocked`](https://hub.docker.com/r/engacs/chatwoot/tags) (legacy rolling tag, kept for existing installs)
 >
+> **This repository hosts documentation and setup instructions only.** The `enterprise/` portion of Chatwoot is licensed separately from the rest of the codebase (see [`enterprise/LICENSE`](https://github.com/chatwoot/chatwoot/blob/develop/enterprise/LICENSE) in the upstream repo), and that license does not permit redistributing modified copies of it. To respect that, the modified source code for this fork is not published here — only the Docker image and usage docs are. Sorry for any inconvenience this causes if you were expecting a browsable source tree.
+>
 > _Last updated: 2026-08-22 — merged upstream `master` (v4.17.0, 411 commits) into `master-unlocked`._
 
 ---
