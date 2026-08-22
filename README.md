@@ -86,7 +86,7 @@ wget -O docker-compose.yml https://raw.githubusercontent.com/engacs/chatwoot/mas
 ### 2. Create the environment file
 
 ```bash
-wget -O .env https://raw.githubusercontent.com/chatwoot/chatwoot/master/.env.example
+wget -O .env https://raw.githubusercontent.com/engacs/chatwoot/master-unlocked/.env.example
 ```
 
 Edit `.env` and set at minimum:
